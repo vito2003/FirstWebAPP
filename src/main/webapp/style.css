@@ -1,0 +1,17 @@
+input[type=password]{
+    margin-left: 57.5px;
+    width: 15%;
+
+}
+input[type=text]{
+  width: 15%;
+}
+.text {
+    color: black ;
+}
+body {
+    background-color: bisque;
+}
+.register{
+    color: black;
+}
